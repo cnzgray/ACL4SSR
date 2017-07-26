@@ -30,7 +30,7 @@
 # 禁止访问列表
 
 # 禁止idea授权服务器授权验证
-^account.jetbrains.com$
+^account\.jetbrains\.com$
 
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
