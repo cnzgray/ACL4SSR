@@ -6649,6 +6649,7 @@
 (^|\.)\w*spotify\w*\.\w*$
 (^|\.)\w*telegram\w*\.\w*$
 (^|\.)\w*twitter\w*\.\w*$
+(^|\.)\w*twimg\w*\.\w*$
 
 # Kakao Talk
 (^|\.)kakao\.com$
