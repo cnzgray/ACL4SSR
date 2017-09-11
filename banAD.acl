@@ -6791,6 +6791,7 @@
 (^|\.)twdvd\.com$
 (^|\.)xn--i2ru8q2qg\.com$
 (^|\.)twimg\.org$
+(^|\.)wikipedia\.org$
 
 # 国外域名关键字
 (^|\.)\w*dropbox\w*\.\w*$
